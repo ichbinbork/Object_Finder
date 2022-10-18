@@ -20,11 +20,11 @@ To make maximum use of the code, run the python code-named trackbar on the image
 ## Screenshots
 For a successful object detection application, you must set the threshold values ​​correctly. You may encounter false positives when the threshold values ​​are not set correctly.
 
-![alt text](https://github.com/ichbinbork/Object_Finder/blob/main/prove.png?raw=true)
+![alt text]
 
 If threshold values ​​are not set
 
-![alt text](https://github.com/ichbinbork/Object_Finder/blob/main/false_psitive.png?raw=true)
+![alt text]
 
 
 ## Feedback
